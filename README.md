@@ -334,8 +334,7 @@ az-grafana-name      = "AMGrafanaTest"
 | __Important to Note:-__ |
 | Please add the required RBAC "__Grafana Admin__" to user identity who will access Azure Managed Grafana URL. |
 | Below is how Azure Managed Grafana looks like:- |
-| 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ipnz6g31xzkpxvpxk5p.jpg) |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ipnz6g31xzkpxvpxk5p.jpg) |
 
 __Hope You Enjoyed the Session!!!__
 
