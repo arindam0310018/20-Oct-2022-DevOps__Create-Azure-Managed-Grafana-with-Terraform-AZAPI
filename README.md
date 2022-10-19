@@ -9,6 +9,10 @@ In this Session, I will demonstrate, __How to deploy Azure Managed Grafana with 
 | As Per the official documentation: __The AzAPI provider is a very thin layer on top of the Azure ARM REST APIs. This provider compliments the AzureRM provider by enabling the management of Azure resources that are not yet or may never be supported in the AzureRM provider such as private/public preview services and features.__ |
 | For more information, please refer [AzAPI Documentation](https://registry.terraform.io/providers/Azure/azapi/latest/docs) |
 
+| __USE CASE:-__ |
+| --------- |
+| How to deploy __Azure Managed Grafana__ using Terraform when the required __AzureRM__ Provider is __NOT__ available ? |
+
 | __REQUIREMENTS:-__ |
 | --------- |
 
