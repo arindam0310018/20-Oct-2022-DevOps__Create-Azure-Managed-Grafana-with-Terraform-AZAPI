@@ -4,6 +4,12 @@ Greetings my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate, __How to deploy Azure Managed Grafana with Terraform AzAPI and DevOps__
 
+| __LIVE RECORDED SESSION:-__ |
+| --------- |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD: WRAP UP - 2022__ Forum/Platform |
+| Duration of My Demo = __37 Mins 27 Secs__ |
+| {% youtube V8b4hg-pZ7s %} |
+
 | __WHAT IS TERRAFORM AZAPI PROVIDER:-__ |
 | --------- |
 | As Per the official documentation: __The AzAPI provider is a very thin layer on top of the Azure ARM REST APIs. This provider compliments the AzureRM provider by enabling the management of Azure resources that are not yet or may never be supported in the AzureRM provider such as private/public preview services and features.__ |
