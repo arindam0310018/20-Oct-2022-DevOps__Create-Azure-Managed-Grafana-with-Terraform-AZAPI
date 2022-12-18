@@ -8,7 +8,7 @@ In this Session, I will demonstrate, __How to deploy Azure Managed Grafana with 
 | --------- |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD: WRAP UP - 2022__ Forum/Platform |
 | Duration of My Demo = __37 Mins 27 Secs__ |
-| {% youtube V8b4hg-pZ7s %} |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V8b4hg-pZ7s/0.jpg)](https://www.youtube.com/watch?v=V8b4hg-pZ7s) |
 
 | __WHAT IS TERRAFORM AZAPI PROVIDER:-__ |
 | --------- |
